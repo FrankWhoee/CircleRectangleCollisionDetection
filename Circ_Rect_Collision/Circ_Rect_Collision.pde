@@ -56,7 +56,7 @@ void setup(){
  
  
  boolean collision(){
-   float rectHeight = this.rectHeight - 16;
+   float rectHeight = this.rectHeight - 32;
    float rectY = this.rectY + 16;
    
    
